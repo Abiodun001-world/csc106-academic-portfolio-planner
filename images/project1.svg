@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Project 1 placeholder">
+  <rect width="800" height="500" fill="#12343b"/>
+  <rect x="80" y="80" width="280" height="180" rx="16" fill="#c4a35a"/>
+  <rect x="400" y="140" width="320" height="240" rx="16" fill="#0f766e"/>
+  <text x="400" y="450" text-anchor="middle" fill="#f8f4ef" font-family="Georgia, serif" font-size="32">StudyFlow Dashboard</text>
+</svg>

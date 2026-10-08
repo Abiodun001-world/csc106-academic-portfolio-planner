@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Project 2 placeholder">
+  <rect width="800" height="500" fill="#1b3a4b"/>
+  <circle cx="220" cy="220" r="120" fill="#e07a5f"/>
+  <circle cx="480" cy="280" r="90" fill="#c4a35a"/>
+  <text x="400" y="450" text-anchor="middle" fill="#f8f4ef" font-family="Georgia, serif" font-size="32">Campus Connect</text>
+</svg>
