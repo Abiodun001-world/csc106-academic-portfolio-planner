@@ -1,4 +1,4 @@
-# COS 106 Academic Portfolio & Planner
+# CSC 106 Academic Portfolio & Planner
 
 A responsive, multi-page student website built with semantic HTML5, modern CSS3, and vanilla JavaScript (no frameworks).
 
@@ -30,4 +30,4 @@ SVG fallbacks live in `images/`:
 
 ## Author
 
-Abiodun Adekunle — COS 106 term project, 2026.
+Abiodun Adekunle — CSC 106 term project, 2026.
