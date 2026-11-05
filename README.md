@@ -26,7 +26,7 @@ SVG fallbacks live in `images/`:
 | `images/project2.png` | Projects card 2 |
 | `images/project3.png` | Projects card 3 |
 
-`cd audio`
+`cd video`
 
 ## Author
 
