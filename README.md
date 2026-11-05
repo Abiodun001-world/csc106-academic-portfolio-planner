@@ -21,7 +21,7 @@ SVG fallbacks live in `images/`:
 | File | Used on |
 | --- | --- |
 | `images/profile.jpg` | Home hero photo |
-| `images/intro.mp4` | Home video (optional) |
+| `images/intro.mp4` | Home video |
 | `images/project1.png` | Projects card 1 |
 | `images/project2.png` | Projects card 2 |
 | `images/project3.png` | Projects card 3 |
